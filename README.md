@@ -16,3 +16,6 @@ vault read secret/myapp
 #### To call you have to pass token in request header (Refer vault server terminal to get client token)
 
 x-Config-Token    d0d044b0-6901-2171-6ab7-6efed5834599
+
+## Please refer this url for basic understanding of spring boot
+https://www.slideshare.net/GyanYadav6/spring-boot-76835127
